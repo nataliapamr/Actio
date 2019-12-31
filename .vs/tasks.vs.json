@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-Actio.Common",
+      "appliesTo": "src/Actio.Common/Actio.Common.csproj",
+      "type": "msbuild"
+    }
+  ]
+}
